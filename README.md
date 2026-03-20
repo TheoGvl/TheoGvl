@@ -23,16 +23,15 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theogvl&show_icons=true&locale=en" alt="theogvl stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theogvl&" alt="theogvl streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theogvl&show_icons=true&locale=en&bg_color=000000&title_color=9b59b6&text_color=ff69b4&icon_color=9b59b6" alt="theogvl stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theogvl&background=000000&ring=9b59b6&fire=orange&currStreakNum=ff69b4&sideNums=ff69b4&currStreakLabel=ff69b4&sideLabels=ff69b4&dates=ff69b4" alt="theogvl streak" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theogvl&show_icons=true&locale=en&layout=compact" alt="theogvl top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theogvl&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=9b59b6&text_color=ff69b4" alt="theogvl top languages" />
 </div>
-
 
 
 
