@@ -14,25 +14,24 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theogvl&show_icons=true&locale=en&bg_color=000000&title_color=9b59b6&text_color=ff69b4&icon_color=9b59b6" alt="theogvl stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theogvl&background=000000&ring=9b59b6&fire=orange&currStreakNum=ff69b4&sideNums=ff69b4&currStreakLabel=ff69b4&sideLabels=ff69b4&dates=ff69b4" alt="theogvl streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=theogvl&show_icons=true&locale=en&bg_color=000000&title_color=6f42c1&text_color=e83e8c&icon_color=6f42c1" alt="theogvl stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=theogvl&background=000000&ring=6f42c1&fire=ff0000&currStreakNum=e83e8c&sideNums=e83e8c&currStreakLabel=e83e8c&sideLabels=e83e8c&dates=e83e8c" alt="theogvl streak" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theogvl&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=9b59b6&text_color=ff69b4" alt="theogvl top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=theogvl&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=6f42c1&text_color=e83e8c" alt="theogvl top languages" />
 </div>
-
 
 
 <!--
