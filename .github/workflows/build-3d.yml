@@ -2,15 +2,18 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 18 * * *" # Runs automatically once a day
-  workflow_dispatch: # Allows you to run it manually right now
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write # This line fixes the exit code 128 error
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4 # Upgraded to v4 to fix the Node.js warning
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
