@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hi 👋, I'm Theofilos Geivelis</h1>
+  <h1 align="center">Hi!! I'm Theofilos Geivelis</h1>
   
   <p align="center">
     <a href="https://github.com/theogvl">
