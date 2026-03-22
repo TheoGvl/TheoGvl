@@ -33,6 +33,7 @@
     <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=6f42c1" alt="Python" />
     <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=6f42c1" alt="JavaScript" />
     <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=6f42c1" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=6f42c1" alt="CSS3" />
   </p>
 
   <br />
@@ -42,10 +43,11 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=theogvl&background=000000&ring=6f42c1&fire=ff0000&currStreakNum=e83e8c&sideNums=e83e8c&currStreakLabel=e83e8c&sideLabels=e83e8c&dates=e83e8c" alt="theogvl streak" />
   </div>
 
-<br />
+  <br />
 
-<div align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contribution Graph" />
+  <div align="center">
+    <img src="profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contribution Graph" />
+  </div>
 </div>
 <!--
 **TheoGvl/TheoGvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
