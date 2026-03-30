@@ -39,7 +39,6 @@
   <br />
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=theogvl&show_icons=true&locale=en&bg_color=000000&title_color=6f42c1&text_color=e83e8c&icon_color=6f42c1" alt="theogvl stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=theogvl&background=000000&ring=6f42c1&fire=ff0000&currStreakNum=e83e8c&sideNums=e83e8c&currStreakLabel=e83e8c&sideLabels=e83e8c&dates=e83e8c" alt="theogvl streak" />
   </div>
 
