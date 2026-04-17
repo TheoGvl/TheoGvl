@@ -16,9 +16,9 @@
   </p>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/theofilos-geivelis-5325413a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theofilos geivelis" height="30" width="40" /></a>
-    <a href="https://www.facebook.com/theofilos.geivelis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="theofilos geivelis" height="30" width="40" /></a>
-    <a href="https://instagram.com/theo_gv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theo_gv" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/theofilos-geivelis-5325413a6/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=%236f42c1&v=2" alt="LinkedIn" /></a>
+    <a href="https://www.facebook.com/theofilos.geivelis" target="blank"><img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=%236f42c1&v=2" alt="Facebook" /></a>
+    <a href="https://instagram.com/theo_gv" target="blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=%236f42c1&v=2" alt="Instagram" /></a>
   </p>
 
   <br />
@@ -27,13 +27,13 @@
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&pause=0&color=e83e8c&center=true&vCenter=true&width=700&lines=Languages+and+Tools:" alt="Languages and Tools" />
   </p>
 
-  <p align="center"> 
-    <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=6f42c1" alt="C" />
-    <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=6f42c1" alt="C++" />
-    <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=6f42c1" alt="Python" />
-    <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=6f42c1" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=6f42c1" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=6f42c1" alt="CSS3" />
+  <p align="center"> 
+    <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=%236f42c1" alt="C" />
+    <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=%236f42c1" alt="C++" />
+    <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=%236f42c1" alt="Python" />
+    <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=%236f42c1" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=%236f42c1" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=%236f42c1" alt="CSS3" />
   </p>
 
   <br />
