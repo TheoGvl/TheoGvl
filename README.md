@@ -7,7 +7,7 @@
     </a>
   </p>
 
-  <p align="center">How to reach me <a href="mailto:geivelist@gmail.com">geivelist@gmail.com</a></p>
+  <p align="center">How to reach me: <a href="mailto:geivelist@gmail.com">geivelist@gmail.com</a></p>
 
   <br />
 
