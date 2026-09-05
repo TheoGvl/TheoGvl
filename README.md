@@ -5,6 +5,7 @@
     <a href="https://github.com/theogvl">
       <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=6f42c1&center=true&vCenter=true&width=700&lines=Currently+learning+HTML,+CSS,+and+JavaScript" alt="Typing SVG" />
     </a>
+    
   </p>
   <p align="center">How to reach me: <a href="mailto:geivelist@gmail.com">geivelist@gmail.com</a></p>
 
